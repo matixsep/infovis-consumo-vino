@@ -19,7 +19,7 @@ Proyecto del curso **Visualización de Información (IIC2026)** — Pontificia U
 | V3 | https://matixsep.github.io/infovis-consumo-vino/V3.html | `v3` |
 | V4 (final) | https://matixsep.github.io/infovis-consumo-vino/V4.html | `v4` |
 | V4 (Editada para la Entrega 2) | https://matixsep.github.io/infovis-consumo-vino/V4_2.html | `v4_2` |
-| V4 (Editada para la Entrega 3) | https://matixsep.github.io/infovis-consumo-vino/V4_2.html | `v4_3` |
+| V4 (Editada para la Entrega 3) | https://matixsep.github.io/infovis-consumo-vino/V4_3.html | `v4_3` |
 ---
 
 ## Datos
