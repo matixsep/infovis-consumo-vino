@@ -4,7 +4,7 @@ Proyecto del curso **Visualización de Información (IIC2026)** — Pontificia U
 
 **Pregunta que responde la visualización:** ¿Cómo ha cambiado el consumo de vino en Chile entre 1963 y 2022, y cómo se compara con el de otros países?
 
-**Propósito:** mixto. Explicativo, porque afirma y respalda una conclusión (la caída del 80,2 % entre 1972 y 2022); y exploratorio, porque el usuario puede cambiar el país principal, los países de comparación y el período.
+**Propósito:** mixto. Explicativo, porque afirma y respalda una conclusión (la caída del 80,2 % entre 1972 y 2022); y exploratorio, porque el usuario puede recorrer el período tras la interacción.
 
 **Audiencia:** público general con lectura básica de gráficos, sin formación en estadística.
 
