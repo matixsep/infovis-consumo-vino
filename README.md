@@ -25,6 +25,7 @@ El proyecto se entregó en dos etapas:
 | V4 (final) | https://matixsep.github.io/infovis-consumo-vino/V4.html | `v4` |
 | V4 (Editada para R2) | https://matixsep.github.io/infovis-consumo-vino/V4_2.html | `v4_2` |
 | V4 (Editada para R3) | https://matixsep.github.io/infovis-consumo-vino/V4_3.html | `v4_3` |
+| Version Final | https://matixsep.github.io/infovis-consumo-vino/VersionFinal.html | `versionfinal` |
 ---
 
 ## Datos
