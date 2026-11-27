@@ -35,7 +35,7 @@ function actualiza(){
     $("fase").textContent="Comienza la experiencia";
     $("anioActual").textContent="—";
     $("tituloEtapa").textContent="Cada gota activa una historia.";
-    $("descEtapa").textContent="Sirve con cuidado hasta la primera marca del vaso físico para descubrir el año 2022.";
+    $("descEtapa").textContent="Sirve primero la cerveza (vaso sin sensor) hasta la primera marca; luego sirve el vino hasta esa marca para descubrir el año 2022 y compararlos.";
     $("vinoValor").textContent="—";
     $("cervezaValor").textContent="—";
     dibujaVaso("liqV",0);dibujaVaso("liqC",0);
