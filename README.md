@@ -34,7 +34,7 @@ Dos archivos del indicador de consumo registrado de alcohol por tipo de bebida (
 | Bebida | Fuente | Archivo |
 |---|---|---|
 | Vino | [wine-consumption-per-capita](https://ourworldindata.org/grapher/wine-consumption-per-capita) | `wine-consumption-per-capita(1).csv` — 10.598 observaciones, 187 entidades, 1960–2022 |
-| Cerveza | [beer-consumption-per-person](https://ourworldindata.org/grapher/beer-consumption-per-person) | **[COMPLETAR: nombre del CSV y número de observaciones]** |
+| Cerveza | [beer-consumption-per-person](https://ourworldindata.org/grapher/beer-consumption-per-person) | `beer-consumption-per-person.csv` — 10.598 observaciones, 187 entidades, 1972–2022|
  
 - **Unidad:** litros de alcohol puro por persona de 15 años o más, al año, atribuidos a cada bebida. **No** son litros de bebida servida, ni número de copas, ni consumo por persona bebedora. Como referencia, 1 L de alcohol puro equivale a unas 10 botellas de vino o 57 latas de cerveza.
 - **Recorte de la Entrega 2:** solo Chile, 1972–2022 (51 años), sin interpolar. Los valores de la versión final están en `V5_modificado.html`.
